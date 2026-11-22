@@ -412,4 +412,4 @@ Ce projet permet de mettre en pratique les concepts fondamentaux du RAG et de l'
 
 Il montre comment combiner une base de données vectorielle, plusieurs outils de recherche et un modèle de langage afin de construire un assistant intelligent capable de rechercher, analyser et générer des réponses contextualisées.
 
-L'utilisation de LangChain
+L'utilisation de LangChain# AI-Research-Assistant---Agentic-RAG-avec-Streamlit
